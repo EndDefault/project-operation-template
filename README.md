@@ -13,6 +13,7 @@
 5. `docs/file_structure_rules.md`에서 사용할 폴더 구조를 정한다.
 6. 큰 방향 변경이 생기면 `docs/change_log.md`에 기록한다.
 7. 커밋은 `docs/commit_convention.md` 규칙을 따른다.
+8. PR이 필요하면 `docs/pr_convention.md` 기준에 따라 제목과 본문 초안을 작성한다.
 
 ## 문서 구성
 
